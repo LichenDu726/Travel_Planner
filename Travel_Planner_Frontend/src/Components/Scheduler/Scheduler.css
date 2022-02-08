@@ -1,0 +1,53 @@
+#place_plan {
+  width: 100%;
+  margin: 2% 0px 0px 10%;
+}
+
+#dayliPlan_title{
+  font-family: "Martel Sans", sans-serif;
+  font-size: 24px !important;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+
+#place_list{
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+}
+
+#scheduler-button {
+  background-color: #e78739;
+  font-weight: bold;
+  color: white;
+  font-size: 18 px;
+  height: auto;
+  border-radius: 10px;
+  font-family: "Cabin", sans-serif;
+
+  margin: 2% 0px 5% 10%;
+}
+
+#scheduler-button1 {
+  background-color: #e78739;
+  font-weight: bold;
+  color: white;
+  font-size: 18 px;
+  height: auto;
+  border-radius: 10px;
+  font-family: "Cabin", sans-serif;
+
+  margin: 3% 0px 5% 33%;
+}
+
+#scheduler-button2 {
+  background-color: #e78739;
+  font-weight: bold;
+  color: white;
+  font-size: 18 px;
+  height: auto;
+  border-radius: 10px;
+  font-family: "Cabin", sans-serif;
+
+  margin: 3% 0px 5% 15%;
+}

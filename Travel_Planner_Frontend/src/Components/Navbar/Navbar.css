@@ -1,0 +1,67 @@
+/*.NavbarItems {*/
+/*    background: linear-gradient(90deg, rgb(237, 189, 85) 0%, rgba(237,164,7,1) 100%);*/
+/*    height: 80px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-content: center;*/
+/*    font-size: 1.2rem;*/
+/*}*/
+
+/*.nav-title {*/
+/*    color: white;*/
+/*    margin-left: 20px;*/
+/*}*/
+
+/*.nav-menu {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(5, auto);*/
+/*    grid-gap: 40px;*/
+/*    list-style: none;*/
+/*    text-align: center;*/
+/*    width: 70vw;*/
+/*    justify-content: end;*/
+/*    margin-right: 5rem;*/
+/*}*/
+
+/*.nav-links {*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*    padding: 0.5rem 1rem;*/
+/*}*/
+
+/*.nav-links:hover {*/
+/*    background-color: #f0a607;*/
+/*    border-radius: 4px;*/
+/*    transition: all 0.2s ease-out;*/
+/*}*/
+
+/*.nav-links-mobile {*/
+/*    display: none;*/
+/*}*/
+
+#login-button {
+  background-color: #e78739;
+  color: white;
+  font-weight: bold;
+  margin-right: 8%;
+}
+
+#signup-button {
+  background-color: #e78739;
+  color: white;
+  font-weight: bold;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-item {
+  color: #ffba32;
+}
+
+.nav_bar {
+  width: 100%;
+}

@@ -1,0 +1,45 @@
+#login-view .lv_form-container {
+  height: 100%;
+  font-family: "Martel Sans", sans-serif;
+  font-size: 16px !important;
+}
+
+#login-view .lv_form {
+  width: 100%;
+  margin: 0px 0 0px 15%;
+}
+
+#login-view .lv_form a {
+  color: #e78739;
+}
+
+#login-view .lv_form-header {
+  font-family: "Bungee", emoji;
+  font-size: 50px;
+  margin: 20px 0 20px 0;
+}
+
+#login-view #login-button {
+  background-color: #e78739;
+  font-weight: bold;
+  color: white;
+  font-size: 24px;
+  height: auto;
+  border-radius: 10px;
+  font-family: "Cabin", sans-serif;
+}
+
+#login-view #logo {
+  position: absolute;
+  left: 50px;
+  top: 40px;
+  z-index: 100;
+}
+
+.sl_photo {
+   width: 100%;
+}
+
+#login_link {
+  width:200%;
+}
